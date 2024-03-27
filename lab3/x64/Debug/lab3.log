@@ -1,0 +1,6 @@
+﻿  mat4.cpp
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab3\mat4.cpp(111,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  testMatrix.cpp
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab3\testMatrix.cpp(184,177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  lab3.vcxproj -> C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab3\x64\Debug\lab3.exe

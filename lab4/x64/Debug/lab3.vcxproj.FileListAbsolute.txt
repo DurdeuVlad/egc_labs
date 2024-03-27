@@ -1,0 +1,2 @@
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab3\x64\Debug\lab3.exe
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab4\x64\Debug\lab3.exe

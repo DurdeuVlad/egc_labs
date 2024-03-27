@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(180,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(180,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(180,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(180,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(181,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(181,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(181,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(181,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(182,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(182,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(182,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(182,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(183,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(183,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(183,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\EGC_Lab5\main.cpp(183,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EGC_Lab5.vcxproj -> C:\Users\Vlad\Documents\GitHub\EGC_Labs\lab5\EGC_Lab5\x64\Debug\EGC_Lab5.exe
